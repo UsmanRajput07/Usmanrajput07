@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usman Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="logo" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDD4You&psig=AOvVaw2yr8IzYGm6mC-GVPVVKgkX&ust=1707415628279000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCPk4LpmYQDFQAAAAAdAAAAABAF"/>
+<img align="right" alt="logo" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React.js,Next.js, udemy**
