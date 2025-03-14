@@ -3,9 +3,9 @@
 <img align="right" alt="logo" width="500" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.js,Next.js, udemy**
+- 🌱 I’m currently working on **React.js,Next.js, udemy**
 
-- 💬 Ask me about **reactjs,javascript**
+- 💬 Ask me about **reactjs,javascript,frontend development**
 
 - ⚡ Fun fact **oops! 😒 Did you find a bug 😑😑**
 
